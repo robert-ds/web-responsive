@@ -1,2 +1,2 @@
 # web-responsive
-This project is a example of testing of javascript
+This project is a web responsiveThis project is a web responsive
